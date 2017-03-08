@@ -1,2 +1,6 @@
 # hello-world
-first repository, starting github today
+First repository, starting github today.
+hello everyone,
+Myself Agam Sachan from BITS Pilani Hyderabad Campus.
+No Changes.
+
